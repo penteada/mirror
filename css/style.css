@@ -34,7 +34,7 @@ body {
    padding-top: 70%;
    -webkit-background-clip: text;
    color: transparent;
-   transition: all 2.5s ease-in-out;
+   transition: all 2.2s ease-in-out;
 }
 
 .wrapper:hover .text {
@@ -48,7 +48,7 @@ body {
    background-size: 100% 100%;
    background-position: center;
    transform: rotateY(180deg);
-   transition: all 2.5s ease-in-out;
+   transition: all 2.2s ease-in-out;
 }
 
 .wrapper:hover .bg {
